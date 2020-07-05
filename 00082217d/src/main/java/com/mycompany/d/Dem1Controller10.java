@@ -3,10 +3,10 @@ package com.mycompany.d;
 import java.io.IOException;
 import javafx.fxml.FXML;
 
-public class PantallaPaso6Controller {
+public class Dem1Controller10 {
 
     @FXML
     private void siguiente() throws IOException {
-        App.setRoot("Dem1");
+      App.setRoot("Dem1_1");
     }
 }
